@@ -1,7 +1,7 @@
 🚀 Laptop Request Catalog Item Using ServiceNow
 
 SmartInternz Virtual Internship – Naan Mudhalvan Initiative
-Team ID: NM2025TMLD06036
+Team ID: NM2025TMID06036
 
 🖥️ Project Overview
 
@@ -71,16 +71,9 @@ Validated speed, stability, and concurrent performance of the system under simul
 
 👥 Team Details
 
-Team ID: NM2025TMLD06036
+Team ID: NM2025TMID06036
 Program: SmartInternz (via Naan Mudhalvan)
 Date: November 2025
-
-📫 Contact
-
-📧 Email: [your.email@example.com
-]
-🔗 LinkedIn: [your-linkedin-profile]
-💻 GitHub Repository: [repository-link]
 
 🏁 Final Thoughts
 
